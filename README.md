@@ -1,4 +1,4 @@
-# paradoxe-project-1.0
+# paradoxe-project
 
 INFORMATIQUE
 Projet @ PARADOXE
